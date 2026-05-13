@@ -3,7 +3,7 @@
 # Hey, I'm Kamande 👋🏾
 ### AI Developer · Web3 Enthusiast · Community Builder · Vibe Coder
 
-*Nairobi, Kenya 🇰🇪 — Building on-chain, one project at a time.*
+*Building, one project at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamande-muiruri/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oansa)
@@ -13,7 +13,7 @@
 
 ---
 
-Web3 developer passionate about building decentralized projects, creating content, and growing developer communities across Africa. I love turning complex ideas into simple, impactful solutions — and helping onboard the next generation of Web3 builders.
+I am passionate about building decentralized projects, creating content, playing with AI, and growing developer communities across Africa. I love turning complex ideas into simple, impactful solutions — and helping onboard the next generation of Web3 builders.
 
 ---
 
@@ -21,7 +21,7 @@ Web3 developer passionate about building decentralized projects, creating conten
 
 **Vibe Coding** — I build fast and ship faster using AI-assisted workflows.
 ```
-Tools: Claude Code · Cursor
+Tools: Claude Code · Cursor · Co-pilot
 Languages: TypeScript · Python
 ```
 
