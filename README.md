@@ -51,7 +51,4 @@ Languages: TypeScript · Python
 
 <div align="center">
 
-![Kamande's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oansa&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oansa&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
