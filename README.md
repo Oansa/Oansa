@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Oansa/Oansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Kamande 👋🏾
+### Web3 Developer · Community Builder · Vibe Coder
 
-Here are some ideas to get you started:
+*Nairobi, Kenya 🇰🇪 — Building on-chain, one project at a time.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamande-muiruri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oansa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamandemuiruri101@gmail.com)
+
+</div>
+
+---
+
+Web3 developer passionate about building decentralized projects, creating content, and growing developer communities across Africa. I love turning complex ideas into simple, impactful solutions — and helping onboard the next generation of Web3 builders.
+
+---
+
+## 🛠 Specialties
+
+**Vibe Coding** — I build fast and ship faster using AI-assisted workflows.
+```
+Tools: Claude Code · Cursor
+Languages: TypeScript · Python
+```
+
+**Web3** — Ethereum, ICP · Solidity smart contracts
+
+**AI / ML** — Computer Vision · LLM fine-tuning (Llama) · Prompt Engineering
+
+---
+
+## 🚀 Currently
+
+**Intern — Assistant Chief of Staff @ Web3 Clubs**, focused on operations and community building in the Web3 space.
+
+---
+
+## 🏗 Projects
+
+| Project | Stack | Context |
+|---|---|---|
+| 🤖 Computer Vision Model | Python, CV | WCHL25 Hackathon |
+| 🌿 Environmental CV Model | Python, CV | Environmental Hackathon |
+| 📈 Deriv Trading Advisor | Python, AI | Deriv Hackathon |
+| 🏦 DeFi Trading Agents Platform | Solidity, React, ERC-8004 | Kraken Hackathon |
+| 🗣 Sheng-Speaking LLM | Llama, Python | Personal Project |
+
+---
+
+<div align="center">
+
+![Kamande's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oansa&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oansa&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
