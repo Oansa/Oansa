@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Kamande 👋🏾
-### Web3 Developer · Community Builder · Vibe Coder
+### AI Developer · Web3 Enthusiast · Community Builder · Vibe Coder
 
 *Nairobi, Kenya 🇰🇪 — Building on-chain, one project at a time.*
 
